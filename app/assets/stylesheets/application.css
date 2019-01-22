@@ -56,3 +56,13 @@ input[type="text"], textarea {
 textarea {
   height: 160px;
 }
+
+.erro {
+  font-size: 12ps;
+  font-weight: bold;
+  color: tomato;
+}
+
+.command {
+  font-size: 12px;
+}
